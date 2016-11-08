@@ -1,5 +1,5 @@
 {
-    "name": "smellems/gcProfilePictureBadges",
+    "name": "smellems/profile_picture_badges",
     "type": "elgg-plugin",
     "require": {
         "composer/installers": ">=1.0.8"
